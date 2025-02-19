@@ -34,7 +34,8 @@ cd image-morpher
 2. Create and activate a virtual environment:
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+source venv/bin/activate
+# On Windows, use: venv\Scripts\activate (or just delete windows and install linux)
 ```
 
 3. Install required dependencies:
@@ -81,6 +82,7 @@ The executable will be created in the `dist` directory.
 - Performance may be suboptimal with large images or many control points
 - Occasional crashes may occur
 - This software was hapharzardly written in one afternoon
+- I am pretty sure there is a race condition with the display, which seems to create a 50/50 chance of a hang whenever the file picker is open
 
 ## Contributing
 
