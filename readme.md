@@ -95,3 +95,5 @@ Do whatever the fuck you want with it
 ## Acknowledgments
 
 Created (out of spite) as a free alternative to commercial morphing software (Morpheus Photo Warper® v3.17 ), with the goal of making image morphing technology accessible for free and ultimately driving Morpheus software out of business forever and ever. 
+
+![Example](yakub.gif)
