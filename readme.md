@@ -91,8 +91,10 @@ Feel free to fork the repository and submit pull requests ( I likely will not me
 ## License
 
 Do whatever the fuck you want with it
+![LICENSE](LICENSE.png)
 
 ## Acknowledgments
+H
 
 Created (out of spite) as a free alternative to commercial morphing software (Morpheus Photo Warper® v3.17 ), with the goal of making image morphing technology accessible for free and ultimately driving Morpheus software out of business forever and ever. 
 
